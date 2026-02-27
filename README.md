@@ -60,7 +60,7 @@ I'm **Athul Raj**, a passionate developer who loves building cool projects and e
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/dev-athulraj/dev-athulraj/output/github-snake.svg)
+![github-snake](https://raw.githubusercontent.com/dev-athulraj/dev-athulraj/output/github-snake.svg)
 
 </div>
 
