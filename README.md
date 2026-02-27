@@ -8,11 +8,11 @@
 
 ---
 
-# ✨ Who am I?
+#  Who am I ?
 
 I'm **Athul Raj**, a passionate developer who loves building cool projects and exploring new technologies. I'm always looking to learn, grow, and collaborate on exciting ideas.
 
-# 🚀 What I Do
+# What I Do
 
 - 🔥 Build projects with modern web technologies
 - 💡 Love experimenting with new tools & frameworks
