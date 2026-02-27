@@ -41,10 +41,6 @@ I'm **Athul Raj**, a passionate developer who loves building cool projects and e
 
 <div align="center">
 
-![Athul Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-athulraj&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-athulraj&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=dev-athulraj&theme=tokyonight&hide_border=true)
 
 </div>
