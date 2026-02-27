@@ -66,6 +66,6 @@ I'm **Athul Raj**, a passionate developer who loves building cool projects and e
 
 <div align="center">
 
-⭐️ From [dev-athulraj](https://github.com/dev-athulraj)
+#⭐️ Let's build the brand together. [dev-athulraj](https://github.com/dev-athulraj)
 
 </div>
