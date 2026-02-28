@@ -1,6 +1,9 @@
 <div align="center">
-# Hi there, I'm Athul Raj 👋
-### A Passionate Developer Building Awesome Things
+
+**Hi there, I'm Athul Raj 👋**
+
+### **A Passionate Developer Building Awesome Things**
+
 </div>
 
 ---
