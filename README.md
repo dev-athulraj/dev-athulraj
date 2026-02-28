@@ -56,7 +56,7 @@ I'm **Athul Raj**, a passionate developer who loves building cool projects and e
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=%22Code+is+like+humor.;When+you+have+to+explain+it%2C+it%27s+bad.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&weight=700&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Declare+Variables,+Not+War.;Write+Code+Not+Excuses.;Keep+it+Clean.+Keep+it+Simple.)](https://git.io/typing-svg)
 
 </div>
 
