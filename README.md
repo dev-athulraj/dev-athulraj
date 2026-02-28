@@ -1,26 +1,20 @@
 <div align="center">
-
 # Hi there, I'm Athul Raj 👋
-
 ### A Passionate Developer Building Awesome Things
-
 </div>
 
 ---
 
-#  Who am I ?
-
+# 🙋 Who am I ?
 I'm **Athul Raj**, a passionate developer who loves building cool projects and exploring new technologies. I'm always looking to learn, grow, and collaborate on exciting ideas.
 
 # What I Do
-
 - 🔥 Build projects with modern web technologies
 - 💡 Love experimenting with new tools & frameworks
 - 🛠️ Always leveling up my skills
 - 🎯 Focused on writing clean, efficient code
 
 # 💻 Tech Stack
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,7 +32,6 @@ I'm **Athul Raj**, a passionate developer who loves building cool projects and e
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # 📊 GitHub Stats
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dev-athulraj&theme=tokyonight&hide_border=true)
@@ -46,7 +39,6 @@ I'm **Athul Raj**, a passionate developer who loves building cool projects and e
 </div>
 
 # 💬 Let's Connect
-
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-athulraj)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/athulraj-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/athuul.raj)
@@ -55,12 +47,16 @@ I'm **Athul Raj**, a passionate developer who loves building cool projects and e
 ---
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-athulraj/dev-athulraj/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-athulraj/dev-athulraj/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/dev-athulraj/dev-athulraj/output/github-snake-dark.svg" />
 </picture>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=%22Code+is+like+humor.;When+you+have+to+explain+it%2C+it%27s+bad.%22)](https://git.io/typing-svg)
 
 </div>
 
